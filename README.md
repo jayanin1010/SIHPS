@@ -17,21 +17,21 @@ Government of Gujarat
 
 A comprehensive Alumni Association Platform with web and mobile applications, featuring:
 
-1. Alumni Registration: Simple processes for alumni to join, update profiles, and connect with peers.
-2. 
-3. Donation Portal: Secure and easy mechanisms for contributing to institutional projects and initiatives.
-4. 
-5. Networking Hub: Dedicated sections for professional networking, mentorship, and collaborations.
-6. 
-7. Job Portal: Integrated job search and career opportunities within the alumni network.
-8. 
-9. Alumni Directory: Search functions to find alumni based on year, field, or location.
-10. 
-11. Success Story Tracking: Features to showcase alumni achievements and inspire students.
-12. 
-13. Events and Reunions: Tools for organizing events, workshops, and reunions.
-14. 
-15. Feedback and Surveys: Channels for alumni to share experiences and suggest improvements.
+    1. Alumni Registration: Simple processes for alumni to join, update profiles, and connect with peers.
+     
+    2. Donation Portal: Secure and easy mechanisms for contributing to institutional projects and initiatives.
+     
+    3. Networking Hub: Dedicated sections for professional networking, mentorship, and collaborations.
+     
+    4. Job Portal: Integrated job search and career opportunities within the alumni network.
+      
+    5. Alumni Directory: Search functions to find alumni based on year, field, or location.
+     
+    6. Success Story Tracking: Features to showcase alumni achievements and inspire students.
+      
+    7. Events and Reunions: Tools for organizing events, workshops, and reunions.
+     
+    8. Feedback and Surveys: Channels for alumni to share experiences and suggest improvements.
 
 
 ## Proposed Solution / Architecture Diagram
@@ -42,9 +42,9 @@ A comprehensive Alumni Association Platform with web and mobile applications, fe
 
 ## Technology Stack
 
-  Flask
-  SQLite (SQLAlchemy)
-  HTML, CSS, Bootstrap
+    Flask
+    SQLite (SQLAlchemy)
+    HTML, CSS, Bootstrap
 
 
 ## Dependencies
