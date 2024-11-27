@@ -36,8 +36,12 @@ A comprehensive Alumni Association Platform with web and mobile applications, fe
 
 ## Proposed Solution / Architecture Diagram
 
+![image](https://github.com/user-attachments/assets/d6f538d4-184d-49c0-bf92-8755ecfb8e3d)
+
 
 ## Use Cases
+
+![image](https://github.com/user-attachments/assets/fcda933a-272a-48c5-a8c9-acf967ffc3fe)
 
 
 ## Technology Stack
