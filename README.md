@@ -53,3 +53,9 @@ A comprehensive Alumni Association Platform with web and mobile applications, fe
 
 ## Dependencies
 
+    APIs:
+    Google Maps API: For event location integration.
+    Stripe/PayPal API: For donation handling.
+    
+    Hosting:
+    AWS, Heroku, or Vercel: For hosting web apps and APIs.
